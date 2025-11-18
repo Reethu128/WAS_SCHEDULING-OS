@@ -1,4 +1,5 @@
 THIS IS THE CODE EXPLANATION VIDEO : https://drive.google.com/file/d/1_TZF0a-aw5BUmd3t1aql6UVssjx3kBQc/view?usp=sharing
+
 THIS IS THE PRESENTATION : https://drive.google.com/file/d/19_kzF86byy07qht4dDIXafipV5WYbT60/view?usp=sharing
 
 Overview
@@ -29,15 +30,6 @@ The highest Weighted Score process gets scheduled first.
 ✔ Prevents long processes from starving
 ✔ Handles different importance levels efficiently
 ✔ Works well in real-time systems and multi-tasking environments
-
-Process	   Burst Time   	Weight	 Weighted Score
-P1	           10	          3	       0.30
-P2             	5         	5	       1.00
-P3	            8          	2	       0.25
-
-GANTT CHART 
-|   P2   |        P1        |      P3     |
-0        5                 15            23
 
 
 
